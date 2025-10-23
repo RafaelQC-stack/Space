@@ -106,15 +106,15 @@ table {
     background-color: transparent;
     border: none;
     font-size: 1rem;
-    height: 24px;
-    padding: 10px;
+    height: 100px;
+    padding: 1px;
     width: 500px;
 }
 
 .busca__icone {
     cursor: pointer;
-    width: 2rem;
-    height: 2rem;
+    width: 15rem;
+    height: 30rem;
 }
 
 .cards {
